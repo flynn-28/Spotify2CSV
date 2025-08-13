@@ -2,7 +2,7 @@
 Python script to save a spotify playlist to csv
 
 ## Setup
-1. create a spotify api app at: (https://developer.spotify.com/dashboard)[https://developer.spotify.com/dashboard]
+1. create a spotify api app at: [https://developer.spotify.com/dashboard](https://developer.spotify.com/dashboard)
 2. install required packages
 ```bash
 pip install -r requirements.txt
